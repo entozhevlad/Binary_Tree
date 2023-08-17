@@ -1,0 +1,17 @@
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\bin\Debug\net6.0-windows\BinaryTree.exe
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\bin\Debug\net6.0-windows\BinaryTree.deps.json
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\bin\Debug\net6.0-windows\BinaryTree.runtimeconfig.json
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\bin\Debug\net6.0-windows\BinaryTree.dll
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\bin\Debug\net6.0-windows\BinaryTree.pdb
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.Form1.resources
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.csproj.GenerateResource.cache
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.AssemblyInfo.cs
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.dll
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\refint\BinaryTree.dll
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.pdb
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\BinaryTree.genruntimeconfig.cache
+C:\Users\RBT\source\repos\BinaryTree\BinaryTree\obj\Debug\net6.0-windows\ref\BinaryTree.dll
